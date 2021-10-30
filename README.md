@@ -1,2 +1,7 @@
-# fisika
-Dokumentasi Materi Fisika
+---
+description: Dokumentasi Materi Fisika
+---
+
+# Fisika
+
+Dalam tahap pengembangan.
